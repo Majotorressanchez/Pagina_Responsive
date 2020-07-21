@@ -1,4 +1,4 @@
-     .body {
+      .body {
 	    font-family: Comfortaa;
 	    padding: 0;
 	    margin: 0;
@@ -318,7 +318,7 @@
 	        display: inline-block;
 	    }
 	    .icons-social__link{
-	        color:black;
+	        color:#536DFE;
 	        font-size: 23px;
 	        border-radius: 23px;
 	        background: whitesmoke;
@@ -365,9 +365,7 @@
   .vacio{
     top: 45%;
   }
-  .container{
-   
-  }
+
   .col-left-1{
     float: left;
     width: 100%;
@@ -541,7 +539,7 @@
     margin: 7px 13px;
   }
   .icons-contact{
-    border-left: 8px solid #060c0b;
+    border-left: 8px solid #DCFFFB;
     margin: 0px 20px -17px 20px;
   }
   .icons-contact__1{
@@ -563,4 +561,5 @@
     font-size: 15px;
   }
 }
+
 
